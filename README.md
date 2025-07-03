@@ -28,7 +28,7 @@ Sua tarefa é construir um sistema capaz de:
 
 - Linguagem: **C++**;
 - Ambas as estruturas devem ser **implementadas do zero**;
-- O código deve conter:
+- O código deve conter (pelo menos):
   - Classe `Point` com: `x`, `y`, `nome`, `categoria`;
   - Classes `KDTree` e `QuadTree` com os métodos:
     - `void insert(Point p)`
@@ -43,11 +43,7 @@ Sua tarefa é construir um sistema capaz de:
 
 ---
 
-## 📅 Entrega
+### Compilação e Execução
 
-O pacote deve conter:
 
-- Código-fonte em C++ com `CMakeLists.txt` ou `Makefile`;
-- Relatório técnico em PDF;
-- Arquivo `README.md`;
-- Arquivo `.csv` com os dados extraídos (opcional).
+

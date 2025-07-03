@@ -1,5 +1,4 @@
 *.csv
-*.osm 
 *.o 
 *.pyc
 *.pyo

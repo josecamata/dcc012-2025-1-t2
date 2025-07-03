@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2025-07-02T23:17:15Z"/>
+
+  <node id="1080973759" lat="-21.7802659" lon="-43.3680888">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="1080973760" lat="-21.7794490" lon="-43.3678849">
+    <tag k="bench" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="1080973761" lat="-21.7776681" lon="-43.3672680">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="1080973762" lat="-21.7747987" lon="-43.3670856">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="1080973764" lat="-21.7742370" lon="-43.3687540">
+    <tag k="amenity" v="library"/>
+    <tag k="name" v="Biblioteca Central"/>
+  </node>
+  <node id="1080973783" lat="-21.7791649" lon="-43.3751246">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="CRITT"/>
+  </node>
+  <node id="1080973790" lat="-21.7769539" lon="-43.3722463">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Engenharia"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="1080973793" lat="-21.7775660" lon="-43.3739253">
+    <tag k="bench" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="1080973795" lat="-21.7798197" lon="-43.3709924">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="FAEFID"/>
+  </node>
+  <node id="1080973801" lat="-21.7779072" lon="-43.3707227">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="ICB"/>
+  </node>
+  <node id="1080973804" lat="-21.7776432" lon="-43.3704116">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="ICB"/>
+  </node>
+  <node id="1080973811" lat="-21.7790804" lon="-43.3718253">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="ICE"/>
+  </node>
+  <node id="1080973833" lat="-21.7733789" lon="-43.3700200">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Reitoria"/>
+  </node>
+  <node id="1080973837" lat="-21.7745894" lon="-43.3703136">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Reitoria"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="1080974065" lat="-21.7795327" lon="-43.3742114">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="IAD"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="1082330599" lat="-21.7735692" lon="-43.3690025">
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="Banco do Brasil"/>
+    <tag k="brand:wikidata" v="Q610817"/>
+    <tag k="name" v="Banco do Brasil"/>
+  </node>
+  <node id="1082330607" lat="-21.7735493" lon="-43.3688415">
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="Santander"/>
+    <tag k="brand:wikidata" v="Q5835668"/>
+    <tag k="name" v="Santander"/>
+  </node>
+  <node id="1082330621" lat="-21.7751827" lon="-43.3662344">
+    <tag k="amenity" v="bank"/>
+    <tag k="brand" v="Santander"/>
+    <tag k="brand:wikidata" v="Q5835668"/>
+    <tag k="name" v="Santander"/>
+    <tag k="operator" v="Santander"/>
+  </node>
+  <node id="1577578529" lat="-21.7798594" lon="-43.3634180">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Linhas 511, 515"/>
+    <tag k="operator" v="Ansal"/>
+  </node>
+  <node id="1577578530" lat="-21.7786439" lon="-43.3634663">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="1577578531" lat="-21.7774632" lon="-43.3628333">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="linhas 510,511,512,537"/>
+  </node>
+  <node id="1968744223" lat="-21.7772668" lon="-43.3479350">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Mercearia Bar"/>
+  </node>
+  <node id="1968752548" lat="-21.7771869" lon="-43.3480557">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="By Jack"/>
+    <tag k="wifi" v="no"/>
+  </node>
+  <node id="1968769056" lat="-21.7771620" lon="-43.3481201">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Armazém"/>
+  </node>
+  <node id="1968770101" lat="-21.7770410" lon="-43.3482420">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Galeto Dourado"/>
+  </node>
+  <node id="1968772905" lat="-21.7770948" lon="-43.3486191">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Pizzaria Sapore"/>
+  </node>
+  <node id="1968773091" lat="-21.7772268" lon="-43.3483107">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Restaurante Mestre Cook"/>
+  </node>
+  <node id="1968773600" lat="-21.7774111" lon="-43.3487559">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Brasador SteakHouse"/>
+    <tag k="opening_hours" v="Su-Th,PH 11:00-24:00, Fr,Sa 11:00-01:00"/>
+  </node>
+  <node id="1968775971" lat="-21.7774211" lon="-43.3477393">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Estação Grill"/>
+  </node>
+  <node id="1968776555" lat="-21.7776303" lon="-43.3478801">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Churrasqueira Alto dos Passos"/>
+  </node>
+  <node id="1968777484" lat="-21.7772766" lon="-43.3476562">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Super Pizza"/>
+  </node>
+  <node id="1968782128" lat="-21.7781110" lon="-43.3485413">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Apriori"/>
+  </node>
+  <node id="2075447927" lat="-21.7111265" lon="-43.4900886">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="2473681842" lat="-21.7711435" lon="-43.3856633">
+    <tag k="addr:housenumber" v="2305"/>
+    <tag k="addr:street" v="Avenida Pres. Costa e Silva"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bar do Bené"/>
+    <tag k="phone" v="+55 32 3231-1056"/>
+  </node>
+  <node id="2473694932" lat="-21.7712613" lon="-43.3861863">
+    <tag k="addr:housenumber" v="1531"/>
+    <tag k="addr:street" v="Avenida Senhor dos Passos"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cervejaria Barbante"/>
+    <tag k="phone" v="+55 32 3231-2879"/>
+    <tag k="website" v="http://www.cervejariabarbante.com.br/"/>
+  </node>
+  <node id="2473876857" lat="-21.7855906" lon="-43.3780201">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Maria &amp; Maria"/>
+  </node>
+  <node id="2474040287" lat="-21.7727423" lon="-43.3712930">
+    <tag k="amenity" v="bank"/>
+    <tag k="brand" v="Caixa Econômica Federal"/>
+    <tag k="brand:wikidata" v="Q835283"/>
+    <tag k="name" v="Caixa Econômica Federal"/>
+  </node>
+  <node id="2476187217" lat="-21.8102886" lon="-43.3609061">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Linhas 114, 135, 137, 190, 199, 590"/>
+    <tag k="operator" v="Santa Luzia"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="2478534913" lat="-21.7507875" lon="-43.3682584">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Linha 621"/>
+    <tag k="note" v="Ponto Final"/>
+    <tag k="operator" v="Norte"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="2656083068" lat="-21.7732373" lon="-43.3811420">
+    <tag k="addr:city" v="Juiz de Fora"/>
+    <tag k="addr:housenumber" v="2499"/>
+    <tag k="addr:postcode" v="36037-500"/>
+    <tag k="addr:street" v="Avenida Presidente Costa e Silva"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Idade da Pedra"/>
+  </node>
+  <node id="2656087243" lat="-21.7717067" lon="-43.3816831">
+    <tag k="addr:city" v="Juiz de Fora"/>
+    <tag k="addr:street" v="Rua Roberto Stiegert"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bar Universitario"/>
+  </node>
+  <node id="2656087244" lat="-21.7714053" lon="-43.3818092">
+    <tag k="addr:city" v="juiz de Fora"/>
+    <tag k="addr:street" v="Rua Roberto Stiegert"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="name" v="Samurai - Japanese Food"/>
+  </node>
+  <node id="2699286328" lat="-21.6890072" lon="-43.4341998">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Praça de Benfica"/>
+  </node>
+  <node id="2699295023" lat="-21.6893312" lon="-43.4334166">
+    <tag k="addr:housename" v="Agência Benfica"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="brand" v="Banco do Brasil"/>
+    <tag k="brand:wikidata" v="Q610817"/>
+    <tag k="name" v="Banco do Brasil"/>
+  </node>
+  <node id="2699296531" lat="-21.6892789" lon="-43.4350340">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="2699298774" lat="-21.6899393" lon="-43.4371100">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Ponto Final Benfica"/>
+  </node>
+  <node id="2701658389" lat="-21.6908364" lon="-43.4309376">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="2701658390" lat="-21.6899192" lon="-43.4315572">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="2783698678" lat="-21.7817121" lon="-43.3630042">
+    <tag k="amenity" v="bank"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="Santander"/>
+    <tag k="brand:wikidata" v="Q5835668"/>
+    <tag k="name" v="Santander"/>
+  </node>
+  <node id="2815704732" lat="-21.7982421" lon="-43.4070821">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Costelaria Curral"/>
+  </node>
+  <node id="2831632877" lat="-21.7769238" lon="-43.4329573">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="name" v="Recanto do mineiro"/>
+  </node>
+  <node id="2844470407" lat="-21.7902090" lon="-43.3906449">
+    <tag k="addr:city" v="Juiz de Fora"/>
+    <tag k="addr:housenumber" v="2510"/>
+    <tag k="addr:street" v="Rua Acácio Alves Alvim"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="name" v="Bertus"/>
+  </node>
+  <node id="2844533877" lat="-21.7913707" lon="-43.3885094">
+    <tag k="addr:city" v="Juiz de Fora"/>
+    <tag k="addr:housenumber" v="310"/>
+    <tag k="addr:postcode" v="36039-000"/>
+    <tag k="addr:street" v="Rua Otília de Souza Leal"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Mr Tugas"/>
+  </node>
+  <node id="2868509749" lat="-21.7320525" lon="-43.3647958">
+    <tag k="addr:city" v="Juiz de Fora"/>
+    <tag k="addr:housenumber" v="677"/>
+    <tag k="addr:postcode" v="36046-130"/>
+    <tag k="addr:street" v="Rua Luiz Rocha"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bar do Pirata"/>
+  </node>
+  <node id="2868558348" lat="-21.7433634" lon="-43.3883510">
+    <tag k="addr:city" v="Juiz de Fora"/>
+    <tag k="addr:housenumber" v="384"/>
+    <tag k="addr:postcode" v="36081-230"/>
+    <tag k="addr:street" v="Rua Nazira Matar de Freitas"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Bar do Bode"/>
+  </node>
+  <node id="2874373333" lat="-21.7708136" lon="-43.3519931">
+    <tag k="addr:city" v="Juiz de Fora"/>
+    <tag k="addr:housenumber" v="1850"/>
+    <tag k="addr:postcode" v="36016-321"/>
+    <tag k="addr:street" v="Avenida Itamar Franco"/>
+    <tag k="name" v="Victory"/>
+    <tag k="phone" v="+55 32 3249 1850"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.victoryhoteis.com/"/>
+  </node>
+  <node id="2895416566" lat="-21.7455191" lon="-43.3541666">
+    <tag k="addr:city" v="Juiz de Fora"/>
+    <tag k="addr:housenumber" v="700"/>
+    <tag k="addr:street" v="Avenida Barão do Rio Branco"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Churrascaria Chimarron"/>
+    <tag k="opening_hours" v="Mo-Th 11:30-15:00,18:00-00:00; Fr-Sa 11:30-00:00; Su 11:30-18:00"/>
+    <tag k="phone" v="+55 32 3217 3353"/>
+    <tag k="smoking" v="no"/>
+    <tag k="website" v="https://chimarron.com.br/"/>
+  </node>
+  <node id="3126973314" lat="-21.7212763" lon="-43.3957423">
+    <tag k="addr:city" v="Juiz de Fora"/>
+    <tag k="addr:suburb" v="Barbosa Lage"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Cidoka"/>
+  </node>
+  <node id="3126981787" lat="-21.7184655" lon="-43.4000177">
+    <tag k="addr:city" v="Juiz de Fora"/>
+    <tag k="addr:suburb" v="Barbosa Lage"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Dom Barone"/>
+  </node>
+  <node id="3906977118" lat="-21.7982627" lon="-43.4142875">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Graal Juiz de Fora"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="4027676513" lat="-21.7684139" lon="-43.3669862">
+    <tag k="addr:city" v="Juiz de Fora"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="36036-560"/>
+    <tag k="addr:street" v="Maria Teixeira Lopes"/>
+    <tag k="addr:suburb" v="Nossa Senhora de Fátima"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="name" v="Buteco do Coleguinha"/>
+    <tag k="opening_hours" v="We-Sa 18:00+"/>
+  </node>
+  <node id="4565297391" lat="-21.7435807" lon="-43.3617103">
+    <tag k="addr:housenumber" v="5300"/>
+    <tag k="addr:street" v="Rua Américo Lôbo"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Saloon"/>
+    <tag k="name:pt" v="Saloon"/>
+    <tag k="opening_hours" v="Tu-Su 14:00-03:00"/>
+  </node>
+  <node id="4578762390" lat="-21.7602248" lon="-43.3448166">
+    <tag k="name" v="Hotel São Luiz"/>
+    <tag k="name:pt" v="Hotel São Luiz"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="4582637189" lat="-21.7608744" lon="-43.3519307">
+    <tag k="addr:housenumber" v="810"/>
+    <tag k="addr:postcode" v="36015-460"/>
+    <tag k="addr:street" v="Rua Marechal Deodoro"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="fixme" v="add o ddd 3212-5774"/>
+    <tag k="name" v="Pluri Bistrô"/>
+    <tag k="opening_hours" v="Tu-Sa 11:00-01:00; Su 11:30-15:30; Mo 11:00-15:00"/>
+  </node>
+  <node id="4795978438" lat="-21.7827597" lon="-43.3641797">
+    <tag k="addr:floor" v="2"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Avenida Doutor Paulo Japiassu Coelho"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Empório Bahamas"/>
+    <tag k="source" v="OSM Note 815079"/>
+  </node>
+  <node id="4856144822" lat="-21.7371384" lon="-43.4425672">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Queijaria Santa Maria"/>
+    <tag k="name:pt" v="Queijaria Santa Maria"/>
+  </node>
+  <node id="4964915322" lat="-21.7307154" lon="-43.3564800">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Climax Conveniência e Pizzaria"/>
+  </node>
+  <node id="5282823224" lat="-21.7591075" lon="-43.3430372">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="5287572193" lat="-21.7673441" lon="-43.3324361">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="5296145799" lat="-21.8486873" lon="-43.2936079">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="5296145801" lat="-21.8414844" lon="-43.2638407">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="5296145802" lat="-21.8567941" lon="-43.2990710">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="5296145803" lat="-21.8542110" lon="-43.2616842">
+    <tag k="highway" v="bus_stop"/>
+  </node>
+  <node id="6142453181" lat="-21.7365818" lon="-43.4425185">
+    <tag k="addr:street" v="Rodovia Washington Luiz - Rodovia Juscelino Kubitschek"/>
+    <tag k="amenity" v="restaurant"/>
+  </node>
+  <node id="6255514455" lat="-21.7532531" lon="-43.3588612">
+    <tag k="amenity" v="bar"/>
+    <tag k="brewery" v="various;yes"/>
+    <tag k="name" v="Bar do Leo"/>
+    <tag k="outdoor_seating" v="yes"/>
+  </node>
+  <node id="7034012173" lat="-21.7273797" lon="-43.3962375">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="7555411981" lat="-21.7732844" lon="-43.3681660">
+    <tag k="amenity" v="restaurant"/>
+  </node>
+  <node id="9425747619" lat="-21.6439347" lon="-43.4066577">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Olho no Olho"/>
+  </node>
+  <node id="9486874599" lat="-21.7064788" lon="-43.4348385">
+    <tag k="addr:city" v="Juiz de Fora"/>
+    <tag k="addr:housenumber" v="54"/>
+    <tag k="addr:postcode" v="36087-610"/>
+    <tag k="addr:street" v="Rua Valdir Martins de Oliveira"/>
+    <tag k="addr:suburb" v="Sao Judas Tadeu"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="chocolate"/>
+    <tag k="name" v="Doceria e Fabrica de Chocolate Tudo em Chocolate"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="opening_hours:covid19" v="restricted"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:none" v="yes"/>
+    <tag k="phone" v="+55 32 3225 6239"/>
+    <tag k="takeaway" v="only"/>
+  </node>
+  <node id="11096558475" lat="-21.7833384" lon="-43.3880617">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="yes"/>
+  </node>
+  <node id="11096558476" lat="-21.7842597" lon="-43.3880819">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="11096558477" lat="-21.7813455" lon="-43.3875962">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="11096558478" lat="-21.7821127" lon="-43.3874010">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="11096558479" lat="-21.7836636" lon="-43.3870699">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="11096558480" lat="-21.7835151" lon="-43.3869187">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="11096558481" lat="-21.7829939" lon="-43.3867575">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="11096558482" lat="-21.7822095" lon="-43.3867344">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="11096558483" lat="-21.7812878" lon="-43.3868750">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="11096558484" lat="-21.7829576" lon="-43.3864664">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="11096558485" lat="-21.7828574" lon="-43.3864505">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+    <tag k="shelter" v="no"/>
+  </node>
+  <node id="11267907513" lat="-21.7618789" lon="-43.3445287">
+    <tag k="addr:city" v="Juiz de Fora"/>
+    <tag k="addr:housenumber" v="181"/>
+    <tag k="addr:postcode" v="36010-110"/>
+    <tag k="addr:street" v="Rua Santa Rita"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="name" v="César Park Hotel"/>
+    <tag k="phone" v="+55 32 3215-4898"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.cesarhoteis.com.br/ohotel.html"/>
+  </node>
+  <node id="11624963095" lat="-21.7925518" lon="-43.3656576">
+    <tag k="name" v="Premier Parc Hotel"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="11624963120" lat="-21.8067417" lon="-43.3766639">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="barbecue"/>
+    <tag k="name" v="Potência do Sul"/>
+  </node>
+  <node id="11627466828" lat="-21.7811877" lon="-43.3614894">
+    <tag k="name" v="Trade Hotel"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="12021055491" lat="-21.7643215" lon="-43.3489535">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="12021055492" lat="-21.7678178" lon="-43.3547014">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="12021055493" lat="-21.7660193" lon="-43.3536741">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="public_transport" v="platform"/>
+  </node>
+  <node id="12599248220" lat="-21.7853012" lon="-43.3750438">
+    <tag k="addr:city" v="Juiz de Fora"/>
+    <tag k="addr:housenumber" v="288"/>
+    <tag k="addr:postcode" v="36038-330"/>
+    <tag k="addr:street" v="Avenida Eugênio do Nascimento"/>
+    <tag k="addr:suburb" v="Aeroporto"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="burger;steak_house"/>
+    <tag k="name" v="Duo Conceito - Buteco &amp; Steak"/>
+    <tag k="phone" v="+5532999007774"/>
+    <tag k="website" v="https://duobutecosteak.com.br/"/>
+  </node>
+
+</osm>
