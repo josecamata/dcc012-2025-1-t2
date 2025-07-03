@@ -1,0 +1,7 @@
+*.csv
+*.osm 
+*.o 
+*.pyc
+*.pyo
+ 
+ build

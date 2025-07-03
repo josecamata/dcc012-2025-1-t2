@@ -1,0 +1,13 @@
+[timeout:50];
+// gather results
+(
+//node["highway"="bus_stop"]({{bbox}});
+//node["amenity"="bank"]({{bbox}});
+//node["amenity"="library"]({{bbox}});
+//node["amenity"="restaurant"]({{bbox}});
+//node["amenity"="bar"]({{bbox}});
+//node["tourism"= "hotel"]({{bbox}});
+node["healthcare"="hospital"]({{bbox}});
+);
+// print results
+out geom;
